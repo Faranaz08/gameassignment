@@ -279,7 +279,6 @@ def poison():
         print(reci)
         print("________________Read the portion content_______________________")
         time.sleep(3)
-        woldmart()
     time.sleep(3)
 
     stirs = input("How many times do you stir? ")
